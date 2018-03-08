@@ -1,8 +1,8 @@
-# Sprint1
+# Sprint3
 
 **Kaleb Haile**
 
-Import java tools like file, util, time, and write
+Import java tools like file, util, time, reader, and write
 
 Establish public class TM and the main public void that calls void method
 
@@ -10,8 +10,15 @@ Case statement:
   * Start
   * Stop
   * Describe
+  * Size
+  * Timer
+  * Delete
+  * Rename
+  * Summary
   
-Easy way to execute the command and task put on command line
+Put in task request in command line
+- Multiple task actions operated by reading text file and adjusting lines to rewrite log
+- After all commands for task are executed the summary of all tasks' information are listed
 
 
 Start:
@@ -28,14 +35,24 @@ Stop:
 Describe:
     Show description of task 
     
-Summary:
-    Collection of start, stop, and describe
+Size:
+    Specific size assigned to task
+
+Rename:
+    Renaming the name of the task
     
-* Use case statment for all four cases
+Delete task:
+    Select task name and delete information for that task
+    
+Summary:
+    Collection of start, stop, describe, size, rename, delete, timer, and min, max time
+    
+* 
 
 Log:
 * TM.log
 * Write and read on to text file using FileWriter and PrintWriter
-* Then Scanner for to read from text file
+* Full summary of task and other options
+* Written in one file
     
 
