@@ -32,7 +32,7 @@ Stop:
     
     Display the date and time stopped
     
-Describe:
+Describe: 
     Show description of task 
     
 Size:
