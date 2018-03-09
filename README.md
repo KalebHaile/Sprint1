@@ -20,7 +20,6 @@ Put in task request in command line
 - Multiple task actions operated by reading text file and adjusting lines to rewrite log
 - After all commands for task are executed the summary of all tasks' information are listed
 
-
 Start:
     ##The Start command starts the time to record how long the task takes 
     
